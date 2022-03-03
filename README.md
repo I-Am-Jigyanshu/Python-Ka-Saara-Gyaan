@@ -25,3 +25,11 @@ Python is a high-level, general-purpose and a very popular programming language.
     Scientific computing
     Text processing and many more.
 
+
+### Topics Covered
+   1. Introduction
+   2. Modules,Comments & PIP
+   3. Variable & Data Types
+   4. Strings
+   5. List & Tuples
+   6. Dictionaries
