@@ -33,3 +33,9 @@ Python is a high-level, general-purpose and a very popular programming language.
    4. Strings
    5. List & Tuples
    6. Dictionaries
+   7. Loops
+   8. Function
+   9. Recursions
+   10. File I/O
+   11. OOPs
+   12. Advanced Python
