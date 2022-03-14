@@ -1,12 +1,12 @@
 # Python-Ka-Saara-Gyaan
-<!-- BASICS TO ADVANCED..    Let's Start Learning.. -->
+Basics To Advanced ------ Let's Start Learning.
 
 ![image](https://user-images.githubusercontent.com/68092947/155268583-d4a90b42-d187-4d8f-910d-3cabb7f18e36.png)
 
 # What is Python?
 Python is a high-level, general-purpose and a very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java.
 
-# Facts bout Python
+# Facts about Python
     Python is currently the most widely used multi-purpose, high-level programming language.
     Python allows programming in Object-Oriented and Procedural paradigms.
     Python programs generally are smaller than other programming languages like Java. Programmers have to type relatively less and indentation requirement of the language, makes them readable all the time.
